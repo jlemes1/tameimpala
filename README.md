@@ -1,4 +1,4 @@
-# TAME IMPALA - Landing Page
+# TAME IMPALA
 
 ## Description
 
