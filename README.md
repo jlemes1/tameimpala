@@ -10,6 +10,10 @@ A website about the band Tame Impala.
 - Tailwindcss
 - Vite
 
+## Responsive design
+
+Adaptable to any device.
+
 ## Deployment
 
 Deployed on Vercel.
