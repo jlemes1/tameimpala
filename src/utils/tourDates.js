@@ -168,6 +168,91 @@ const tourDates = [
     venue: 'Rac Arena',
     ticket: 'https://premier.ticketek.com.au/shows/show.aspx?sh=DRULACP26',
   },
+  {
+    id: 25,
+    date: 'May 28, 2027',
+    city: 'Manchester, UK',
+    venue: 'Co-Op Live',
+    ticket:
+      'https://www.gigsandtours.com/event/tame-impala-deadbeat-eu-uk-tour-2027/co-op-live/3708292?pre=artist',
+  },
+  {
+    id: 26,
+    date: 'June 1, 2027',
+    city: 'London, UK',
+    venue: 'The o2',
+    ticket:
+      'https://www.axs.com/uk/events/1582232/tame-impala-tues-1st-june-tickets/promopage/84453?skin=theo2&cid=usafflinkfire&lfireid=818a4d5aeca154b91dd1f9d77638ada5',
+  },
+  {
+    id: 27,
+    date: 'June 2, 2027',
+    city: 'London, UK',
+    venue: 'The o2',
+    ticket:
+      'https://www.axs.com/uk/events/1582233/tame-impala-weds-2nd-june-tickets/promopage/84456?skin=theo2&cid=usafflinkfire&lfireid=c02dd1fb2a31975e0c41d4aa493a8134',
+  },
+
+  {
+    id: 28,
+    date: 'June 7, 2027',
+    city: 'Rotterdam, Netherlands',
+    venue: 'Rotterdam Ahoy',
+    ticket: 'https://tix.to/TI27UKEUPre',
+  },
+  {
+    id: 29,
+    date: 'June 8, 2027',
+    city: 'Rotterdam, Netherlands',
+    venue: 'Rotterdam Ahoy',
+    ticket: 'https://tix.to/TI27UKEUPre',
+  },
+
+  {
+    id: 30,
+    date: 'June 12, 2027',
+    city: 'Paris, France',
+    venue: 'Accor Arena',
+    ticket:
+      'https://go.seated.com/tour-events/413fd49a-8855-4e08-a91a-fe7ad76670c1',
+  },
+  {
+    id: 31,
+    date: 'June 13, 2027',
+    city: 'Paris, France',
+    venue: 'Accor Arena',
+    ticket:
+      'https://go.seated.com/tour-events/282edd63-9531-48da-bf7d-5f5431dc8b89',
+  },
+
+  {
+    id: 32,
+    date: 'June 17, 2027',
+    city: 'Cologne, Germany',
+    venue: 'Lanxess Arena',
+    ticket: 'https://www.eventim.de/artist/tame-impala/?affiliate=V69',
+  },
+  {
+    id: 33,
+    date: 'June 30, 2027',
+    city: 'Gdynia, Poland',
+    venue: 'Opener Festival',
+    ticket: 'https://opener.pl/',
+  },
+  {
+    id: 34,
+    date: 'July 4, 2027',
+    city: 'Werchter, Belgium',
+    venue: 'Rock Werchter',
+    ticket: 'https://www.rockwerchter.be/nl/',
+  },
+  {
+    id: 35,
+    date: 'July 10, 2027',
+    city: 'Lisbon, Portugal',
+    venue: 'Nos Alive',
+    ticket: 'https://nosalive.com/',
+  },
 ];
 
 export default tourDates;
